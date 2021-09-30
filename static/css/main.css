@@ -54,9 +54,7 @@ a{
 	transition: .4s ease;
 }
 
-a:hover{
-	transform: scale(1.1);
-}
+
 
 .header{
 	padding: 20px 0 20px 0;
